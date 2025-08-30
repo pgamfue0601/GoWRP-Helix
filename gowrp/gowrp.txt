@@ -1,0 +1,8 @@
+"ixhl2rp"
+{
+	"base"		"helix"
+	"title"		"Gears of War RP"
+	"author"	"nebulous.cloud"
+	"category"	"rp"
+	"menusystem" "1"
+}
