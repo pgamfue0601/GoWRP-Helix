@@ -1,6 +1,6 @@
-FACTION.name = "Conscripto"
-FACTION.description = "Un conscripto nuevo, listo para ser carne de cañon."
-FACTION.color = Color(65, 145, 76)
+FACTION.name = "Soldado Gear"
+FACTION.description = "Ya sea por reclutamiento propio o forzoso, bienvenido a tu nueva vida como soldado de la CGO."
+FACTION.color = Color(49, 76, 151)
 FACTION.isGloballyRecognized = true
 FACTION.isDefault = true
 FACTION.models = {
@@ -36,4 +36,4 @@ function FACTION:OnCharacterCreated(client, character)
 
 end
 
-FACTION_GUARD = FACTION.index
+FACTION_GEAR = FACTION.index
