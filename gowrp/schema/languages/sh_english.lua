@@ -1,5 +1,5 @@
 LANGUAGE = {
-	schemaName = "Warhammer 40K Roleplay",
+	schemaName = "Gears of War Roleplay",
 	tying = "Tying...",
 	unTying = "Untying...",
 	isTied = "Tied",

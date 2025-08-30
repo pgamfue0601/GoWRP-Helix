@@ -1,7 +1,7 @@
 
-Schema.name = "Warhammer 40K RP"
+Schema.name = "Gears of War RP"
 Schema.author = "Elektro"
-Schema.description = "A schema based on Warhammer 40K."
+Schema.description = "A schema based on Gears of War."
 
 -- Include netstream
 ix.util.Include("libs/thirdparty/sh_netstream2.lua")
