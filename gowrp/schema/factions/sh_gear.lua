@@ -4,23 +4,13 @@ FACTION.color = Color(49, 76, 151)
 FACTION.isGloballyRecognized = true
 FACTION.isDefault = true
 FACTION.models = {
-    "models/player/impy/guardsman.mdl",
-    "models/malkiax/rhinocompany/female_00.mdl",
-    "models/malkiax/rhinocompany/female_01.mdl",
-    "models/malkiax/rhinocompany/female_03.mdl",
-    "models/malkiax/rhinocompany/female_04.mdl",
-    "models/malkiax/rhinocompany/female_06.mdl",
-    "models/malkiax/rhinocompany/female_07.mdl",
-    "models/malkiax/rhinocompany/male_00.mdl",
-    "models/malkiax/rhinocompany/male_01.mdl",
-    "models/malkiax/rhinocompany/male_02.mdl",
-    "models/malkiax/rhinocompany/male_03.mdl",
-    "models/malkiax/rhinocompany/male_04.mdl",
-    "models/malkiax/rhinocompany/male_05.mdl",
-    "models/malkiax/rhinocompany/male_06.mdl",
-    "models/malkiax/rhinocompany/male_07.mdl",
-    "models/malkiax/rhinocompany/male_08.mdl",
-    "models/malkiax/rhinocompany/male_09.mdl",
+    "models/gearsofwar/players/custom/cog/cog_gear_ue.mdl",
+    "models/gearsofwar/players/custom/cog/cog_female_gear_ue.mdl",
+    "models/gearsofwar/players/custom/cog/ben_carmine_ue.mdl",
+    "models/gearsofwar/players/custom/cog/redshirt_gow3.mdl",
+    "models/gearsofwar/players/custom/cog/clayton_carmine_classic.mdl",
+    "models/gearsofwar/players/custom/cog/redshirt_gow1.mdl",
+    "models/gearsofwar/players/custom/cog/cog_template.mdl",
     -- Agrega más modelos aquí
 }
 

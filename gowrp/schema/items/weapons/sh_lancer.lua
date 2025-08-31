@@ -1,4 +1,4 @@
-ITEM.name = "Rifle Laser"
+ITEM.name = "Rifle Lancer Mk.II"
 ITEM.description = "Un rifle laser, estándar entre las tropas del Astra Militarum."
 ITEM.model = "models/hosti/w_m36_lasgun.mdl"
 ITEM.class = "tfa_hlasgun_m36"

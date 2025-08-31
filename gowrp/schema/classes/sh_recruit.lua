@@ -1,4 +1,4 @@
-CLASS.name = "Conscripto"
-CLASS.faction = FACTION_GUARD
+CLASS.name = "Soldado Gear"
+CLASS.faction = FACTION_GEAR
 CLASS.isDefault = true
-CLASS_RECRUIT = CLASS.index
+CLASS_GEAR = CLASS.index
